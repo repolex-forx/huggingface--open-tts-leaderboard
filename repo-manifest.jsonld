@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/open-tts-leaderboard/commit/9dd06fb9bfa087f6d943e1b88c928c4781f084b8",
       "git:hexsha": "9dd06fb9bfa087f6d943e1b88c928c4781f084b8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T14:37:05.549827+00:00"
     }
   ]
 }
