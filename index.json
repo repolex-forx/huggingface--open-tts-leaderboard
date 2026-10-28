@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "open-tts-leaderboard",
+  "versions": [
+    {
+      "commit": "9dd06fb9bfa087f6d943e1b88c928c4781f084b8",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:37:05.550314+00:00"
+    }
+  ]
+}
